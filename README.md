@@ -1,3 +1,8 @@
+> [!WARNING]
+> This is a development branch and may contain work in progress.
+> For stable files, please refer to the [`main`](https://github.com/algomatic-dynamics/yubi-hw-amdy/tree/main) branch or the [Releases](https://github.com/algomatic-dynamics/yubi-hw-amdy/releases).
+
+
 # YUBI - Yielding Universal Bidigital Interface
 
 ### Open Source Hardware for Dexterous Manipulation
